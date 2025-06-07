@@ -6,7 +6,7 @@
 
 Stable Diffusion, ComfyUI 등 AI로 생성된 이미지들을 효율적으로 관리하고 검색하기 위한 데스크톱 이미지 갤러리 애플리케이션입니다. 이미지에 포함된 프롬프트, 네거티브 프롬프트, 생성 파라미터 등 메타데이터를 자동으로 추출하여 데이터베이스에 저장하고, 이를 기반으로 강력한 검색 및 필터링 기능을 제공합니다.
 
-![Application Screenshot]<img width="1187" alt="Image" src="https://github.com/user-attachments/assets/5b1bedea-720c-4e67-9388-a2a22e9ad0c1" />
+[Screenshot]<img width="1187" alt="Image" src="https://github.com/user-attachments/assets/5b1bedea-720c-4e67-9388-a2a22e9ad0c1" />
 
 
 ## ✨ 주요 기능
