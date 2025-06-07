@@ -1,0 +1,42 @@
+# --- IDE/Editor specific files ---
+# Visual Studio Code
+.vscode/
+# JetBrains
+.idea/
+
+# --- Python specific ---
+# Virtual environment folder
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Distribution / packaging
+/dist/
+/build/
+*.egg-info/
+*.spec
+
+
+# --- Application specific files ---
+# SQLite database file. Users will generate their own.
+gallery.db
+*.db
+
+# Cache directory for thumbnails. Will be generated on runtime.
+.cache/
+
+# User's image folder. Should not be tracked.
+images/
+
+# User-specific translation dictionary.
+custom_translations.json
+
+# Optional: User configuration file.
+# Uncomment the line below if you do not want to share a default config.json.
+# config.json
